@@ -1,4 +1,4 @@
-# Olá Eu sou o Lucas
+# Hello I´m Lucas!
 
 🌱 Estudando Java <img align="center" alt="Lucas-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <br>
 😌 Conhecimento Básico <img align="center" alt="Lucas-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <br>
